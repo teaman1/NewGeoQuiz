@@ -1,0 +1,8 @@
+<resources>
+    <string name="question_text">
+        Constantinople is the largeest city in Turkey.
+    </string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="app_name">My Application</string>
+</resources>

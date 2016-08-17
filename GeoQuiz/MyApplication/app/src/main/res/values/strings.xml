@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">New Geo Quiz</string>
+    <string name="question_text">
+        Constantinople is the largeest city in Turkey.
+    </string>
+        <string name="true_button">True</string>
+        <string name="false_button">False</string>
+</resources>
